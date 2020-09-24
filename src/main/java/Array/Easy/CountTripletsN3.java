@@ -40,7 +40,7 @@ Sample input:
 import java.io.*;
         import java.util.*;
 
-class CountTriplets {
+class CountTripletsN3 {
     public static void main(String args[]) throws IOException {
         BufferedReader read =
                 new BufferedReader(new InputStreamReader(System.in));
